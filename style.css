@@ -11,10 +11,7 @@ body {
   font-size: 35px;
   font-weight: bold;
   float: right;
-  border-bottom: 2px, solid, black;
-}
-#content-contact {
-  border-bottom: 2px, solid, black;
+  border-bottom: 2px solid black;
 }
 .date {
   float: right;
