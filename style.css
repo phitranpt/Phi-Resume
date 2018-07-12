@@ -8,8 +8,15 @@ body {
   width: 800px;
 }
 #content-name {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bold;
+  float: right;
+}
+.address {
+  float: left;
+}
+.contact {
+  float: left;
 }
 .date {
   float: right;
