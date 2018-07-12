@@ -1,11 +1,8 @@
-.container {
+#container {
   margin: 0 auto;
   width: 100px;
 }
+body {
+  font: 16px calibri;
+}
   
-h1 {
-  font-size: 14px;
-}
-ul {
-  font-size: 10px;
-}
