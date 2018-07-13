@@ -14,6 +14,10 @@ body {
   justify-content: flex-end;
   border-bottom: 2px solid black;
 }
+#content-contact {
+  border-bottom: 2px solid black;
+  justify-content: flex-end;
+}
 .date {
   float: right;
 }
