@@ -15,10 +15,6 @@ body {
   padding: 25px;
   margin: 25px;
 }
-#content-contact {
-  border-bottom: 2px solid black;
-  justify-content: flex-end;
-}
 .date {
   float: right;
 }
