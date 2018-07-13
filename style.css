@@ -11,8 +11,6 @@ body {
   font-size: 35px;
   font-weight: bold;
   float: right;
-  justify-content: flex-end;
-  border-bottom: 2px solid black;
   border: 25px solid-green;
   padding: 25px;
   margin: 25px;
