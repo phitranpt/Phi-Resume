@@ -10,10 +10,6 @@ body {
 #content-name {
   font-size: 35px;
   font-weight: bold;
-  float: right;
-  border: 25px solid-green;
-  padding: 25px;
-  margin: 25px;
 }
 .date {
   float: right;
