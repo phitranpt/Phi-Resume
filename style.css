@@ -13,6 +13,9 @@ body {
   float: right;
   justify-content: flex-end;
   border-bottom: 2px solid black;
+  border: 25px solid-green;
+  padding: 25px;
+  margin: 25px;
 }
 #content-contact {
   border-bottom: 2px solid black;
