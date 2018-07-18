@@ -58,6 +58,18 @@ body {
   font-size: 20px;
   text-transform: uppercase;
   padding: 20px 0px 0px 0px;
+  position: relative;
+  display: inline-block;
+}
+
+.title::after {
+  content:'';
+  height: 2px;
+  width: 60%;
+  background: #19334d;
+  position: absolute;
+  left: 20%;
+  bottom: -10px;
 }
 
 .information {
@@ -81,4 +93,3 @@ ul {
   text-align: justify;
   text-justify: inter-word;
 }
-
